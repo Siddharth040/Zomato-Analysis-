@@ -1,4 +1,4 @@
-#Zomato Data Analysis & Business Intelligence Dashboard
+<h1>Zomato Data Analysis & Business Intelligence Dashboard</h1>
 <h6>This project presents a comprehensive analysis of Zomato’s restaurant data using Exploratory Data Analysis (EDA) and a visually intuitive Power BI dashboard. The goal was to extract actionable insights regarding restaurant distribution, customer preferences, pricing trends, and ratings across different locations and cuisines.</h6>
 
 Key Highlights:

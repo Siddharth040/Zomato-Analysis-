@@ -14,24 +14,18 @@ Exploratory Data Analysis (EDA):
       Distribution of cuisine preferences.
       Relationship between price, rating, and delivery options.
 
-Power BI Dashboard:
+<h3>Power BI Dashboard:
 
 Developed an interactive dashboard to showcase findings in a user-friendly manner.
 
-Key visuals include:
+- Key visuals include:
+      Geo-distribution of restaurants by city.
+      Price vs Rating heatmap.
+      Filterable charts for cuisine, cost, delivery, and restaurant type analysis.
+      Enabled dynamic filtering to help stakeholders drill down into specific cities or cuisines for detailed insights.
 
-Geo-distribution of restaurants by city.
-
-Price vs Rating heatmap.
-
-Filterable charts for cuisine, cost, delivery, and restaurant type analysis.
-
-Enabled dynamic filtering to help stakeholders drill down into specific cities or cuisines for detailed insights.
-
-Tools & Technologies:
-
-Python (Pandas, Matplotlib, Seaborn) for EDA
-
-Power BI for data visualization
-
-Excel for preliminary data inspection
+-Tools & Technologies:
+      Python (Pandas, Matplotlib, Seaborn) for EDA
+      Power BI for data visualization
+      Excel for preliminary data inspection
+</h3>
